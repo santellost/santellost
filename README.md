@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @santellost
+- 👀 I’m interested in desktop, mobile and web developing; videogame developing and basicly everything coding related
+- 🌱 I’m currently learning android and ios
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: e-mail stefano.santello@gmail.com
